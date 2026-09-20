@@ -1,5 +1,5 @@
-# Final assembly complete
+# Latest: orbital app hosting premise
 
-Use [STOPLINK-PRESENT-THIS.pdf](../../deck/STOPLINK-PRESENT-THIS.pdf) and [STOPLINK-STAGE-SCRIPT.md](../../deck/STOPLINK-STAGE-SCRIPT.md). Editable PPTX is alongside them.
+Use [STOPLINK-READY.pdf](../../deck/STOPLINK-READY.pdf), [editable PPTX](../../deck/STOPLINK-READY.pptx), and [stage script](../../deck/STOPLINK-STAGE-SCRIPT.md).
 
-Patrick authorized final cross-lane assembly. Nine slides assembled with a new logo, YC Summer 26 parody badge, larger typography, one coherent reveal, founder portraits, and Will’s advisor photo. Orbital data centers run fleet AI through truck-stop terminals; recurring miles purchases pay for the bundled compute. Prior drafts are superseded. Final package and layout checks passed; PDF pages rendered for visual review.
+Patrick clarified that the orbital data center simply hosts the truck-stop miles app. The founders' AWS/regulatory anxiety is the comic reason for choosing orbit. This replaces the fleet-AI/free-compute signup-bonus story everywhere in the current deck and script. Founder and Will portraits, YC badge, racing joke, and clean cover remain. Previous decks are history.

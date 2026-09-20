@@ -1,50 +1,48 @@
 # STOPLINK — final stage script
 
-**Run time:** about 3 minutes, plus laughter. Parker opens absolutely straight. Nadav sells the architecture. Patrick delivers the punchlines. Pause after the reveal and the final line.
+About 3 minutes plus laughter. Parker explains the business, Nadav defends the infrastructure, Patrick delivers the punchlines.
 
 ## 1 — STOPLINK
 
-**PARKER:** America runs on trucks. Trucks run through truck stops. And truck stops are about to run on orbital data centers. STOPLINK puts the compute above the highway and the customer right underneath it.
+**PARKER:** STOPLINK builds orbital data centers for truck stops. We host the essential infrastructure of the American interstate.
+
+*[Dead straight.]*
 
 ## 2 — What the company does
 
-**PARKER:** We sell airline miles to truck stops. Truck stops buy our miles to reward diesel purchases and keep drivers coming back. Drivers redeem those miles for flights on existing airlines. To win the contract, we bundle free AI from our orbital data centers.
+**PARKER:** Specifically, a rewards app. Truck stops buy airline miles from us to reward diesel purchases and keep drivers coming back. Drivers redeem those miles for flights on existing airlines. The app lives in our orbital data center.
 
 ## 3 — The orbital layer
 
-**NADAV:** Here is the architecture. Truck-stop terminals upload fleet data. Our orbital GPU data centers run the models. Predictions come back down to dispatchers and drivers. Solar power above; customers below. We went where the power is: straight up.
+**NADAV:** A driver buys diesel. The purchase reaches our app in orbit. The app updates their miles balance and lets them book a flight. That is it.
 
-**PARKER:** And now, the revenue model.
+**PATRICK:** It is literally just hosting the fucking app. We have made a gas-station rewards database launch-critical.
 
-## 4 — We sell miles
+## 4 — The revenue model
 
-*[Show the slide. Let the room read it.]*
-
-**PARKER:** We sell miles. That is one hundred percent of our planned revenue.
-
-**NADAV:** Every compute contract comes with a mandatory purchase of STOPLINK miles. Drivers earn them when their fleets use compute and when they buy fuel. Later, a co-branded card adds everyday spending. Redeem them for flights on existing airlines.
+**PARKER:** We sell miles. One hundred percent of our planned revenue. We are not selling compute, and we are not an airline.
 
 **PATRICK:** People who drive for a living earn enough points to finally stop fucking driving.
 
 ## 5 — How the money moves
 
-**PARKER:** Truck stops and future card partners buy miles from us. Drivers earn those miles. When they redeem, we buy an actual airline ticket. We keep what is left after rewards and operating costs.
+**PARKER:** Truck stops pay us for miles. Drivers earn them on fuel and food. When drivers redeem, we buy an actual airline ticket. We keep the difference after rewards and operating costs.
 
 **PATRICK:** The first airline with no airplanes. Our fleet has never been late. Our fleet is a font.
 
-## 6 — A $600M signup bonus
+## 6 — Why we host it in orbit
 
-**NADAV:** So why build an orbital data center? Customer acquisition. Banks give you sixty thousand points. We give your truck stop access to a six-hundred-million-dollar space computer.
+**NADAV:** We were worried about AWS, control of our data, and regulators. So we spent six hundred million dollars moving the app to space.
 
-**PARKER:** The compute is free. The recurring purchase of miles is compulsory.
+**PATRICK:** AWS asked us to pick a region. Nadav selected “away.”
 
-**PATRICK:** Our unit economics are incredible if you exclude everything in space.
+**PARKER:** Our lawyer said orbit does not fix the regulatory problem.
 
-**NADAV:** Which, conveniently, is outside the unit.
+**PATRICK:** We asked Will how much higher the rocket goes.
 
 ## 7 — The team
 
-**PATRICK:** Nadav and Parker made Forbes 30 Under 30. I brought the helmet. Statistically, we’re a complete founding team.
+**PATRICK:** Nadav and Parker are both Forbes 30 Under 30. I am Patrick, the emergency contact—and the guy in the documentary saying, “Looking back, there were signs.”
 
 **PATRICK:** I beat the Starship guys at racing. So I’ve already delivered a loss to Starship. This time I’m asking them to invest in it.
 
@@ -54,25 +52,22 @@
 
 **PATRICK:** We spent twelve minutes with his headshot. Due diligence complete.
 
-*[Pause, then move to the ask.]*
+*[Pause.]*
 
 ## 9 — The ask
 
-**PARKER:** Orbital data centers get us into truck stops. Truck stops get drivers into the loyalty program. The loyalty program is the whole business.
+**PARKER:** Truck stops are the customers. Miles are the product. The orbital data center hosts the app.
 
 **NADAV:** Invest in dollars.
 
 **PATRICK:** Get returns in miles. Subject to availability.
 
-*[Stop. Do not explain the joke.]*
+*[Stop.]*
 
 ---
 
 ## Production notes — do not read aloud
 
-- This is a fictional retreat pitch. STOPLINK, the architecture, the 2,400-site rollout, the $600M system and the revenue plan are pitch assumptions, not operating results.
-- No bank, airline, truck-stop, YC or advisor relationship is claimed as real. The YC Summer ’26 branding is part of the parody.
-- The architecture must remain visible: **truck-stop terminals → orbital GPU data centers → fleet predictions**. Do not replace it with a rewards ledger or say the satellites are unnecessary. The joke is that a real, absurdly expensive compute proposition disguises the miles business.
-- “Free compute” means no separate compute charge; operators must buy a recurring miles package. The $600M line describes the shared orbital infrastructure, not a separate satellite for every truck stop.
-- Forbes credentials are supplied by the team. All fraud/documentary jokes concern these fictional founders in this fictional venture.
-- Do not add the unsupported claim that United makes more money selling miles than flying passengers, or that airline loyalty programs universally exceed airline valuations.
+The current premise is an ordinary truck-stop airline-miles app hosted in an orbital data center. There is no fleet AI, predictive maintenance, compute product, or free-compute signup bonus. The founders' AWS and regulatory worries explain their absurd hosting decision. The lawyer exchange makes their faulty legal logic part of the joke.
+
+The company, $600M hosting cost, partnerships, YC affiliation and dialogue are fictional. Forbes credentials and racing result are supplied by the team. Will's SpaceX tenure source: https://www.starship.vc/team. User-supplied photos identify the team and Will.

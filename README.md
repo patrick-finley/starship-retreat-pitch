@@ -1,10 +1,10 @@
 # STOPLINK — final retreat pitch
 
-**Present this:** [Final PDF](deck/STOPLINK-PRESENT-THIS.pdf) · [Editable PowerPoint](deck/STOPLINK-PRESENT-THIS.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
+**Present this:** [Final PDF](deck/STOPLINK-READY.pdf) · [Editable PowerPoint](deck/STOPLINK-READY.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
 
-Orbital GPU data centers provide fleet AI through truck-stop terminals. Free compute is bundled with compulsory recurring purchases of airline miles. Drivers earn rewards; STOPLINK buys their flights on existing airlines. The loyalty program is secretly the whole business.
+STOPLINK sells airline miles to truck-stop chains. Drivers earn miles on diesel and food, then redeem them for flights on existing airlines. Our orbital data center hosts the loyalty app and its rewards database. The founders became worried about AWS and regulation and made an absurdly expensive hosting decision. The loyalty program is the whole business.
 
-Nine slides, including the three founder portraits and Will’s advisor slide. Open straight. Slide two explains who pays, what drivers get, and where orbital AI fits. The orbital data center is a $600M signup bonus. End on “Subject to availability.”
+Nine slides, including founder portraits and Will’s advisor slide. Slide two plainly explains the product. Slide three shows the app architecture. Slide six turns the AWS/regulatory concern into a $600M hosting bill. There is no fleet AI or free-compute product. End on “Subject to availability.”
 
 Patrick authorized final assembly across all lanes. The final PDF and script above supersede all earlier creative drafts and handoffs. Earlier material is retained as history.
 
