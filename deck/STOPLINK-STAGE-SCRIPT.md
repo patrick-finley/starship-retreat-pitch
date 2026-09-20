@@ -42,7 +42,7 @@ About 3 minutes plus laughter. Parker explains the business, Nadav defends the i
 
 ## 7 — The team
 
-**PATRICK:** Nadav and Parker are both Forbes 30 Under 30. Our next milestone is federal 30 to life. I am Patrick, the emergency contact. They each get one phone call.
+**PATRICK:** Nadav and Parker are both Forbes 30 Under 30. I am Patrick, the emergency contact. They each get one phone call.
 
 *[Pause. Optional tag: I am also the guy in the documentary saying, “Looking back, there were signs.”]*
 
