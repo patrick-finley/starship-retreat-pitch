@@ -6,9 +6,9 @@
 
 **PARKER:** America runs on trucks. Trucks run through truck stops. And truck stops are about to run on orbital data centers. STOPLINK puts the compute above the highway and the customer right underneath it.
 
-## 2 — 2,400 truck stops
+## 2 — What the company does
 
-**PARKER:** Our proposed rollout is 2,400 truck stops. Each becomes a terminal for AI dispatch, route planning, and predictive maintenance. A fleet pulls in for diesel and leaves knowing which route to take—and which truck is about to become a very expensive parking space.
+**PARKER:** We sell airline miles to truck stops. Truck stops buy our miles to reward diesel purchases and keep drivers coming back. Drivers redeem those miles for flights on existing airlines. To win the contract, we bundle free AI from our orbital data centers.
 
 ## 3 — The orbital layer
 

@@ -7,9 +7,9 @@ Target: around 3 minutes, plus laughter. First three slides straight. Pause on t
 PARKER: America runs on the interstate. We are building the infrastructure above it. STOPLINK is orbital compute for the American truck-stop economy. Our orbital GPU clusters deliver AI dispatch, route optimization, and predictive maintenance to fleets at truck stops. We put the data center in orbit and the customer terminal beside the diesel pump. Deliver straight, with no wink.
 Source note: YC affiliation is fictional retreat-pitch parody. YC mark from https://www.ycombinator.com/press.
 
-## 2. 2,400 truck stops
+## 2. What the company does
 
-PARKER: We start with a proposed network of 2,400 truck stops. Truck stops become access points for fleet AI: dispatch, routing, and predictive maintenance. Operators sell more services, fleets reduce downtime, drivers keep moving. We bring the GPU capacity to them from orbit. These are target locations, not signed customers. The rollout number is an invented pitch assumption.
+PARKER: We sell airline miles to truck stops. The truck stops buy our miles to reward diesel purchases and keep drivers coming back. Drivers redeem those miles for flights on existing airlines. To win the contract, we bundle free AI from our orbital data centers. PATRICK: People who drive for a living earn enough points to finally stop fucking driving.
 
 ## 3. The orbital layer
 
