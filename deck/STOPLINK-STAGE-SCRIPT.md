@@ -44,13 +44,19 @@
 
 ## 7 — The team
 
-**PATRICK:** Nadav and Parker are both Forbes 30 Under 30. I am Patrick, the emergency contact—and the guy in the documentary saying, “Looking back, there were signs.”
+**PATRICK:** Nadav and Parker made Forbes 30 Under 30. I brought the helmet. Statistically, we’re a complete founding team.
 
-**NADAV:** Will handles technical diligence.
+**PATRICK:** I beat the Starship guys at racing. So I’ve already delivered a loss to Starship. This time I’m asking them to invest in it.
 
-**PATRICK:** Specifically, his headshot. Our YC application was this same deck with “AI” in a larger font.
+## 8 — Our technical moat
 
-## 8 — The ask
+**NADAV:** Will spent twelve years at SpaceX.
+
+**PATRICK:** We spent twelve minutes with his headshot. Due diligence complete.
+
+*[Pause, then move to the ask.]*
+
+## 9 — The ask
 
 **PARKER:** Orbital data centers get us into truck stops. Truck stops get drivers into the loyalty program. The loyalty program is the whole business.
 

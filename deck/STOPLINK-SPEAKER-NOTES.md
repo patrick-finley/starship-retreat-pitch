@@ -30,10 +30,15 @@ NADAV: Why put the data centers in orbit? Solar-powered GPUs are the product sto
 
 ## 7. Team
 
-PATRICK: Nadav and Parker are both Forbes 30 Under 30. I am Patrick. I am the emergency contact, and the guy in the documentary saying: Looking back, there were signs. NADAV: Will spent twelve years making rockets land. We hired him so ours never have to do anything. PARKER: Our YC application was a rewards card with a rocket on it.
-Nadav/Parker Forbes credentials are user-provided. Will professional background source: https://www.starship.vc/team. Advisory role in STOPLINK and YC affiliation are fictional jokes.
+PATRICK: Nadav and Parker made Forbes 30 Under 30. I brought the helmet. Statistically, we are a complete founding team. I beat the Starship guys at racing. So I have already delivered a loss to Starship. This time I am asking them to invest in it. NADAV: Will handles technical diligence. PATRICK: Specifically, his headshot.
+Photo identities and Forbes credentials supplied by Patrick. Racing result supplied by Patrick. Roles, getaway-driver reference, advisor role and YC affiliation are fictional retreat jokes.
 
-## 8. The ask
+## 8. Our technical moat
+
+NADAV: Will spent twelve years at SpaceX. PATRICK: We spent twelve minutes with his headshot. Due diligence complete. Pause.
+Will photo supplied by Patrick. Twelve years at SpaceX verified at https://www.starship.vc/team. STOPLINK advisory role is fictional retreat comedy.
+
+## 9. The ask
 
 PARKER: Orbital data centers run the AI. Truck stops distribute it. The airline loyalty program makes all the money. We have vertically integrated a rocket launch into a credit-card offer. NADAV: We are accepting investment in dollars. PATRICK: Returns are in miles. Subject to availability. Stop.
 Optional Israel/politics line only if desired and time permits, spoken by Nadav before the ask: I handle government relations. If the UN condemns us, the deck will say internationally recognized. This is fictional political satire.

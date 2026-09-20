@@ -1,10 +1,10 @@
 # STOPLINK — final retreat pitch
 
-**Present this:** [Final PDF](deck/STOPLINK-FINAL.pdf) · [Editable PowerPoint](deck/STOPLINK-FINAL.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
+**Present this:** [Final PDF](deck/STOPLINK-STAGE-READY.pdf) · [Editable PowerPoint](deck/STOPLINK-STAGE-READY.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
 
 Orbital GPU data centers provide fleet AI through truck-stop terminals. Free compute is bundled with compulsory recurring purchases of airline miles. Drivers earn rewards; STOPLINK buys their flights on existing airlines. The loyalty program is secretly the whole business.
 
-Eight slides. Open straight. Reveal the miles on slide four. The orbital data center is a $600M signup bonus. End on “Subject to availability.”
+Nine slides, including the three founder portraits and Will’s advisor slide. Open straight. Reveal the miles on slide four. The orbital data center is a $600M signup bonus. End on “Subject to availability.”
 
 Patrick authorized final assembly across all lanes. The final PDF and script above supersede all earlier creative drafts and handoffs. Earlier material is retained as history.
 
