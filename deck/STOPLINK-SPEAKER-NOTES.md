@@ -42,7 +42,9 @@ Target: around 3 minutes, plus laughter. First three slides straight. Pause on t
 
 ## 7. The team
 
-**PATRICK:** Nadav and Parker are both Forbes 30 Under 30. I am Patrick, the emergency contact—and the guy in the documentary saying, “Looking back, there were signs.”
+**PATRICK:** Nadav and Parker are both Forbes 30 Under 30. I am Patrick, the emergency contact. They each get one phone call.
+
+*[Pause. Optional tag: I am also the guy in the documentary saying, “Looking back, there were signs.”]*
 
 **PATRICK:** I beat the Starship guys at racing. So I’ve already delivered a loss to Starship. This time I’m asking them to invest in it.
 
