@@ -1,11 +1,5 @@
-# Name, logo, and deck status
+# Final assembly complete
 
-- Human owner: Nadav Shoval
-- State: ready for first run
-- Current deliverable: none
-- Human-selected name/logo: none
-- Approved PDF: none; first deck rejected
-- Next: run prompts/03-visuals.md; eight names, ranked top three, two rough logos
-- Need from team: name/premise/direction choice
-- Script version consumed: none
-- Latest run note: none
+Use [STOPLINK-FINAL.pdf](../../deck/STOPLINK-FINAL.pdf) and [STOPLINK-STAGE-SCRIPT.md](../../deck/STOPLINK-STAGE-SCRIPT.md). Editable PPTX is alongside them.
+
+Patrick authorized final cross-lane assembly. Eight slides rebuilt with a new logo, YC Summer 26 parody badge, larger typography, and one coherent reveal. Orbital data centers run fleet AI through truck-stop terminals; recurring miles purchases pay for the bundled compute. Prior drafts are superseded. Final package and layout checks passed; PDF pages rendered for visual review.

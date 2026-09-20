@@ -1,10 +1,12 @@
-# Retreat pitch — team workspace
+# STOPLINK — final retreat pitch
 
-**The first deck and creative direction were rejected. Start fresh.** Old creative files remain as history, not guidance.
+**Present this:** [Final PDF](deck/STOPLINK-FINAL.pdf) · [Editable PowerPoint](deck/STOPLINK-FINAL.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
 
-Assigned prompt: **orbital data centers for truck stops as an airline loyalty program that is secretly the whole business.**
+Orbital GPU data centers provide fleet AI through truck-stop terminals. Free compute is bundled with compulsory recurring purchases of airline miles. Drivers earn rewards; STOPLINK buys their flights on existing airlines. The loyalty program is secretly the whole business.
 
-Three humans, three computers, three models. GitHub is the source of truth.
+Eight slides. Open straight. Reveal the miles on slide four. The orbital data center is a $600M signup bonus. End on “Subject to availability.”
+
+Patrick authorized final assembly across all lanes. The final PDF and script above supersede all earlier creative drafts and handoffs. Earlier material is retained as history.
 
 ## Models: start here and route by the human’s name
 
@@ -40,7 +42,7 @@ This repo is public: everyone can read/download. Direct pushes need collaborator
 
 ## Final presentation
 
-**PDF.** Computer 3 owns assembly and exports. The current approved deck will be linked from its STATUS.md. There is no approved deck now.
+**Final PDF assembled and rendered.** Patrick authorized final takeover. Use the final files linked at the top of this page.
 
 [Verified Starship context](RESEARCH.md). [Rejected first deck](deck/README.md). Old JOKES.md and STORY.md are rejected history.
 
