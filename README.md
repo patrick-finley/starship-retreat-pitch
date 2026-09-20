@@ -1,6 +1,6 @@
 # STOPLINK — final retreat pitch
 
-**Present this:** [Final PDF](deck/STOPLINK-READY-v5.pdf) · [Editable PowerPoint](deck/STOPLINK-READY-v5.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
+**Present this:** [Final PDF](deck/STOPLINK-READY-v6.pdf) · [Editable PowerPoint](deck/STOPLINK-READY-v6.pptx) · [Three-person stage script](deck/STOPLINK-STAGE-SCRIPT.md)
 
 STOPLINK sells airline miles to truck-stop chains. Drivers earn miles on diesel and food, then redeem them for flights on existing airlines. Our orbital data center hosts the loyalty app and its rewards database. The founders became worried about AWS and regulation and made an absurdly expensive hosting decision. The loyalty program is the whole business.
 
